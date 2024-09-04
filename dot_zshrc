@@ -102,6 +102,7 @@ fi
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+source <(fzf --zsh)
 
 if [ -f "~/.asdf/asdf.sh" ]; then
     . ~/.asdf/asdf.sh
