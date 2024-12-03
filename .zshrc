@@ -124,3 +124,6 @@ func addGitTag() {
 func dad-joke() {
     curl "https://icanhazdadjoke.com/"
 }
+
+alias config='/usr/bin/git --git-dir=$HOME/homies/ --work-tree=$HOME'
+
