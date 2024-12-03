@@ -1,4 +1,4 @@
 *
 !.gitignore
 !/.zshrc
-!/.config/
+!/.config/nvim
