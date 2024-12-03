@@ -1,1 +1,3 @@
-/nix/store/zk0z1alyy73nxfgyi1vdsrzp84xlrsrh-home-manager-files/.config/nvim/lua/config/options.lua
+-- Options are automatically loaded before lazy.nvim startup
+-- Default options that are always set: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/options.lua
+-- Add any additional options here

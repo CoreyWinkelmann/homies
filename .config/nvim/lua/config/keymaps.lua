@@ -1,1 +1,3 @@
-/nix/store/zk0z1alyy73nxfgyi1vdsrzp84xlrsrh-home-manager-files/.config/nvim/lua/config/keymaps.lua
+-- Keymaps are automatically loaded on the VeryLazy event
+-- Default keymaps that are always set: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/keymaps.lua
+-- Add any additional keymaps here

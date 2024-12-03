@@ -1,1 +1,9 @@
-/nix/store/zk0z1alyy73nxfgyi1vdsrzp84xlrsrh-home-manager-files/.config/nvim/lua/plugins/windowpicker.lua
+return {
+  "s1n7ax/nvim-window-picker",
+  name = "window-picker",
+  event = "VeryLazy",
+  version = "2.*",
+  opts = {
+    hint = "floating-big-letter",
+  },
+}
