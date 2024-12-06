@@ -1,5 +1,0 @@
-*
-!.gitignore
-!/.zshrc
-!/.config/nvim
-!/.config/nvim/**
