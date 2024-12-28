@@ -129,4 +129,3 @@ alias config='/usr/bin/git --git-dir=$HOME/homies/ --work-tree=$HOME'
 config config --local core.excludesFile $HOME/.config/gitme/.gitignore
 
 
-[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
